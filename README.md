@@ -60,13 +60,10 @@ Panduan untuk berkontribusi pada proyek ini:
 4. Push ke branch tersebut (`git push origin fitur-anda`).
 5. Buat Pull Request.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
 
 ## Kontak
 
-Nama Anda - [@username](https://github.com/Hilmiyeee) - hilmyfauzi486@gmail.com
+Nama Anda - [@Hilmiyeee](https://github.com/Hilmiyeee) - hilmyfauzi486@gmail.com
 
 Proyek Link: [https://github.com/username/monitoring-inkubator-telur](https://github.com/Hilmiyeee/GUI-Arduino)
 
