@@ -1,4 +1,7 @@
-
+## Bug
+- Terjadi kesalahan untuk mengambil data telur, karena software ini masih tergolong hardcode.
+- software ini khusus untuk single user, bisa ada pengembangan multi-user.
+- fitur monitoring suhu dan kelembaban berjalan baik
 
 ---
 
