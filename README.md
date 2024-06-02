@@ -1,4 +1,4 @@
-Berikut adalah contoh file README.md yang disesuaikan untuk proyek software desktop monitoring inkubator telur menggunakan bahasa C# dan Firebase:
+
 
 ---
 
