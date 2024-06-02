@@ -21,11 +21,11 @@ Langkah-langkah untuk menginstal proyek ini secara lokal:
 
 1. Clone repositori ini:
     ```bash
-    git clone https://github.com/username/monitoring-inkubator-telur.git
+    git clone https://github.com/Hilmiyeee/GUI-Arduino
     ```
 2. Masuk ke direktori proyek:
     ```bash
-    cd monitoring-inkubator-telur
+    cd GUI-Arduino
     ```
 3. Buka proyek menggunakan Visual Studio.
 4. Pulihkan paket NuGet yang diperlukan:
@@ -63,10 +63,10 @@ Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) unt
 
 ## Kontak
 
-Nama Anda - [@username](https://twitter.com/username) - email@example.com
+Nama Anda - [@username](https://github.com/Hilmiyeee) - hilmyfauzi486@gmail.com
 
-Proyek Link: [https://github.com/username/monitoring-inkubator-telur](https://github.com/username/monitoring-inkubator-telur)
+Proyek Link: [https://github.com/username/monitoring-inkubator-telur](https://github.com/Hilmiyeee/GUI-Arduino)
 
 ---
 
-Sesuaikan contoh di atas dengan detail proyek Anda. Anda bisa menambahkan atau menghapus bagian sesuai kebutuhan.
+
