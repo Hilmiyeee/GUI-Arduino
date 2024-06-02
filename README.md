@@ -48,7 +48,7 @@ Petunjuk tentang cara menjalankan software ini:
 - **Monitoring Suhu dan Kelembaban:**
   - Menampilkan data suhu dan kelembaban secara real-time dari inkubator telur.
 - **Pengambilan Data dari Firebase:**
-  - Mengambil dan menampilkan data telur dari Firebase.
+  - Mengambil dan menyimpan data telur dari Firebase dengan extensi (.xlxs).
 
 ## Kontribusi
 
@@ -63,7 +63,7 @@ Panduan untuk berkontribusi pada proyek ini:
 
 ## Kontak
 
-Nama Anda - [@Hilmiyeee](https://github.com/Hilmiyeee) - hilmyfauzi486@gmail.com
+[@Hilmiyeee](https://github.com/Hilmiyeee) - hilmyfauzi486@gmail.com
 
 Proyek Link: [https://github.com/username/monitoring-inkubator-telur](https://github.com/Hilmiyeee/GUI-Arduino)
 
