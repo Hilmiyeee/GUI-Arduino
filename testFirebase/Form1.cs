@@ -232,7 +232,8 @@ namespace testFirebase
                     GB_nyala.Visible = true;
 
                     //grafik dan data logger akan berjalan hanya jika ada koneksi ke firebase
-                    FirebaseResponse response = await client.GetAsync("InkubatorApp2023/Monitoring/001");
+                    //struktur penyimpanan di firebase terdahulu, silahkan ubah sesuai kebutuhan 
+                    FirebaseResponse response = await client.GetAsync("data1/data2/data3");
                     Data obj = response.ResultAs<Data>();
 
                     string nilaiAwalS = obj.Kelembapan;
